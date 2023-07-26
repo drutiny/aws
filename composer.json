@@ -1,0 +1,19 @@
+{
+    "name": "drutiny/aws",
+    "description": "Drutiny integration with AWS",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Drutiny\\Aws\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josh Waihi",
+            "email": "joshwaihi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
