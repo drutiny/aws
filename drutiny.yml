@@ -1,2 +1,3 @@
 services:
-  Drutiny\Aws\DependencyInjection\ConditionalLibraryPass:
+  AsyncAws\Core\AwsClientFactory:
+    lazy: true
