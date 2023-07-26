@@ -1,0 +1,2 @@
+services:
+  Drutiny\Aws\DependencyInjection\ConditionalLibraryPass:

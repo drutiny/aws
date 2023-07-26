@@ -8,6 +8,10 @@
             "Drutiny\\Aws\\": "src/"
         }
     },
+    "suggest": {
+        "aws/aws-sdk-php": "Full powered official SDK of AWS",
+        "async-aws/core": "Light weight partial unofficial support for AWS SDK"
+    },
     "authors": [
         {
             "name": "Josh Waihi",
